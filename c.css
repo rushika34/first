@@ -1,0 +1,21 @@
+
+.basketball {
+    background-image:url("img.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.cricket {
+    background-image:url("img1.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.badminton {
+    background-image:url("img2.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.books {
+    background-image:url("img3.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
