@@ -5,13 +5,11 @@
     background-size:100% 100%;
     font-family: cursive;
 }
-}
 .cricket {
     background-image:url("img1.jpg");
     background-repeat:no-repeat;
     background-size:100% 100%;
     font-family: cursive;
-}
 }
 .badminton {
     background-image:url("img2.png");
@@ -19,11 +17,9 @@
     background-size:100% 100%;
     font-family: cursive;
 }
-}
 .books {
     background-image:url("img3.png");
     background-repeat:no-repeat;
     background-size:100% 100%;
     font-family: cursive;
-}
 }
